@@ -10,5 +10,7 @@ package projetomvcteste.model;
  * @author 771900057
  */
 public class Qualquer {
-    
+    private int id;
+    private String nome;
+    private String cpf;
 }
